@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
-    "versionName":  "0.4",
-    "novita":  "Nuova sezione Pulizia: ti dice quanti giga puoi liberare e da cosa. Trova le copie doppie confrontando il contenuto dei file (di ogni gruppo ne resta sempre una, mai cancellate tutte), gli screenshot piu\u0027 vecchi di tre mesi, la roba di WhatsApp di piu\u0027 di sei mesi fa e i video sopra i 100 MB. Apri una categoria, guardi le foto una per una, selezioni e cancelli in blocco. Niente sparisce senza la conferma di Android.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.4/Fototeca.apk",
-    "sha256":  "91f6e60be3e444043fd9f2a11abfe111d98c312ae01ad137394c77f8a7e7db1b",
-    "pesoByte":  11447782
+    "versionCode":  5,
+    "versionName":  "0.5",
+    "novita":  "Album automatici. Premi Riconosci nella scheda Album e Fototeca guarda le tue immagini una per una, mettendo da parte Documenti, Foto sfocate e Schermate. Non usa intelligenza artificiale: misura la nitidezza e il colore dei pixel, quindi resta leggera e funziona anche senza servizi Google. La prima volta ci mette un po\u0027, poi se lo ricorda e i giri successivi sono immediati.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.5/Fototeca.apk",
+    "sha256":  "d524444df55ee70281a11e8c5035b160e7c475fe54c7db62b4e5d44a1b347843",
+    "pesoByte":  11464162
 }
