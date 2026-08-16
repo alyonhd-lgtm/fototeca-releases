@@ -1,8 +1,8 @@
 {
-    "versionCode":  1,
-    "versionName":  "0.1",
-    "novita":  "Prima versione: la galleria viene letta e le foto sono raggruppate per provenienza (Fotocamera, WhatsApp, Screenshot, Download, Social), con filtri e conteggio. Da qui in avanti gli aggiornamenti arrivano da soli, senza cavo.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.1/Fototeca.apk",
-    "sha256":  "d73fe11c0586694bd14649140a05af15849739e9e1313c950a8c392133c22482",
-    "pesoByte":  11365862
+    "versionCode":  2,
+    "versionName":  "0.2",
+    "novita":  "Adesso tocchi una foto e si apre a schermo intero: scorri, pizzica per ingrandire, e vedi data, peso e provenienza. La galleria e\u0027 divisa per giorno (Oggi, Ieri, la data). Tieni premuto per selezionare piu\u0027 foto, o tocca il giorno per prenderlo tutto, poi condividi o elimina in blocco. Il pulsante in alto a destra cambia la grandezza dei riquadri. In piu\u0027 lo scorrimento e\u0027 molto piu\u0027 fluido con gallerie grandi.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.2/Fototeca.apk",
+    "sha256":  "9ebdbefa97914962bdf99124569223a5132370ea4f22f94c731d7e8a05f7a1fc",
+    "pesoByte":  11398630
 }
