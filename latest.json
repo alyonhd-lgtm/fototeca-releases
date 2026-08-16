@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "0.2",
-    "novita":  "Adesso tocchi una foto e si apre a schermo intero: scorri, pizzica per ingrandire, e vedi data, peso e provenienza. La galleria e\u0027 divisa per giorno (Oggi, Ieri, la data). Tieni premuto per selezionare piu\u0027 foto, o tocca il giorno per prenderlo tutto, poi condividi o elimina in blocco. Il pulsante in alto a destra cambia la grandezza dei riquadri. In piu\u0027 lo scorrimento e\u0027 molto piu\u0027 fluido con gallerie grandi.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.2/Fototeca.apk",
-    "sha256":  "9ebdbefa97914962bdf99124569223a5132370ea4f22f94c731d7e8a05f7a1fc",
-    "pesoByte":  11398630
+    "versionCode":  3,
+    "versionName":  "0.3",
+    "novita":  "Tre zone in fondo allo schermo: Foto, Album e Cerca. Gli Album sono le cartelle del telefono, con copertina e conteggio. La Cerca trova per nome file, cartella o provenienza. La griglia ora si adatta alla larghezza: aprendo il telefono compaiono piu\u0027 colonne invece di foto giganti. E non perdi piu\u0027 il segno quando pieghi o ruoti lo schermo.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.3/Fototeca.apk",
+    "sha256":  "d363642bfccf8c3b16f905543f75ad44757abdabd526ba612e926356adb4bf38",
+    "pesoByte":  11431398
 }
