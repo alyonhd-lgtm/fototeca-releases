@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "0.5",
-    "novita":  "Album automatici. Premi Riconosci nella scheda Album e Fototeca guarda le tue immagini una per una, mettendo da parte Documenti, Foto sfocate e Schermate. Non usa intelligenza artificiale: misura la nitidezza e il colore dei pixel, quindi resta leggera e funziona anche senza servizi Google. La prima volta ci mette un po\u0027, poi se lo ricorda e i giri successivi sono immediati.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.5/Fototeca.apk",
-    "sha256":  "d524444df55ee70281a11e8c5035b160e7c475fe54c7db62b4e5d44a1b347843",
-    "pesoByte":  11464162
+    "versionCode":  6,
+    "versionName":  "0.6",
+    "novita":  "Interfaccia rinnovata. Barretta laterale per saltare a una data: la trascini e ti dice dove stai passando. Selezione a intervallo: tieni premuto sulla prima e sull\u0027ultima e prende tutte quelle in mezzo. Il visore si chiude trascinando la foto verso il basso. Ogni provenienza ha il suo colore, verde WhatsApp, blu screenshot, ambra fotocamera. Piu\u0027 animazioni, dissolvenze e vibrazioni. Corretto il visore che non prendeva tutto lo schermo.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.6/Fototeca.apk",
+    "sha256":  "3b1405f4e05daf05448c85c28b5070a8a64a15c6a69e19e1d9ddb88228078fc7",
+    "pesoByte":  11480550
 }
