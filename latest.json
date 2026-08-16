@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "0.3",
-    "novita":  "Tre zone in fondo allo schermo: Foto, Album e Cerca. Gli Album sono le cartelle del telefono, con copertina e conteggio. La Cerca trova per nome file, cartella o provenienza. La griglia ora si adatta alla larghezza: aprendo il telefono compaiono piu\u0027 colonne invece di foto giganti. E non perdi piu\u0027 il segno quando pieghi o ruoti lo schermo.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.3/Fototeca.apk",
-    "sha256":  "d363642bfccf8c3b16f905543f75ad44757abdabd526ba612e926356adb4bf38",
-    "pesoByte":  11431398
+    "versionCode":  4,
+    "versionName":  "0.4",
+    "novita":  "Nuova sezione Pulizia: ti dice quanti giga puoi liberare e da cosa. Trova le copie doppie confrontando il contenuto dei file (di ogni gruppo ne resta sempre una, mai cancellate tutte), gli screenshot piu\u0027 vecchi di tre mesi, la roba di WhatsApp di piu\u0027 di sei mesi fa e i video sopra i 100 MB. Apri una categoria, guardi le foto una per una, selezioni e cancelli in blocco. Niente sparisce senza la conferma di Android.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.4/Fototeca.apk",
+    "sha256":  "91f6e60be3e444043fd9f2a11abfe111d98c312ae01ad137394c77f8a7e7db1b",
+    "pesoByte":  11447782
 }
