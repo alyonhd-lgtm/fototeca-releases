@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.6",
-    "novita":  "Interfaccia rinnovata. Barretta laterale per saltare a una data: la trascini e ti dice dove stai passando. Selezione a intervallo: tieni premuto sulla prima e sull\u0027ultima e prende tutte quelle in mezzo. Il visore si chiude trascinando la foto verso il basso. Ogni provenienza ha il suo colore, verde WhatsApp, blu screenshot, ambra fotocamera. Piu\u0027 animazioni, dissolvenze e vibrazioni. Corretto il visore che non prendeva tutto lo schermo.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.6/Fototeca.apk",
-    "sha256":  "3b1405f4e05daf05448c85c28b5070a8a64a15c6a69e19e1d9ddb88228078fc7",
-    "pesoByte":  11480550
+    "versionCode":  7,
+    "versionName":  "0.7",
+    "novita":  "Niente viene piu\u0027 cancellato davvero: quello che butti finisce nel cestino di Android e resta recuperabile per circa un mese. La ricerca non e\u0027 piu\u0027 una scheda a parte ma un campo in cima alla galleria, e titolo e filtri scorrono via con le foto: dopo il primo scorrimento lo schermo e\u0027 tutto fotografie. Scorrimento piu\u0027 fluido di circa un quarto, perche\u0027 ora l\u0027app usa le miniature che il telefono tiene gia\u0027 pronte invece di riaprire ogni foto. Le prime foto compaiono subito, senza aspettare che l\u0027intera galleria sia letta.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.7/Fototeca.apk",
+    "sha256":  "0419030bc654d1e9df7d00650eda0b146cf3619e3b04c264b5eb22a56b9b601f",
+    "pesoByte":  11480574
 }
