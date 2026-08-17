@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "0.7",
-    "novita":  "Niente viene piu\u0027 cancellato davvero: quello che butti finisce nel cestino di Android e resta recuperabile per circa un mese. La ricerca non e\u0027 piu\u0027 una scheda a parte ma un campo in cima alla galleria, e titolo e filtri scorrono via con le foto: dopo il primo scorrimento lo schermo e\u0027 tutto fotografie. Scorrimento piu\u0027 fluido di circa un quarto, perche\u0027 ora l\u0027app usa le miniature che il telefono tiene gia\u0027 pronte invece di riaprire ogni foto. Le prime foto compaiono subito, senza aspettare che l\u0027intera galleria sia letta.",
-    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.7/Fototeca.apk",
-    "sha256":  "0419030bc654d1e9df7d00650eda0b146cf3619e3b04c264b5eb22a56b9b601f",
-    "pesoByte":  11480574
+    "versionCode":  8,
+    "versionName":  "0.8",
+    "novita":  "Preferiti con la stella, la stessa che usa la galleria del telefono. Ordinamento per data, peso o nome dal pulsante in alto. Seleziona tutto nella barra della selezione. I video ora si guardano dentro l\u0027app. Nella scheda informazioni compaiono i dati di scatto: dispositivo, focale, tempo, ISO e posizione, quando la foto li porta con se\u0027. E l\u0027app ha finalmente una forma sua: riquadri piu\u0027 squadrati come un provino a contatto, titoli piu\u0027 stretti, stati vuoti disegnati, e il numero dello spazio recuperabile diventato il protagonista della schermata Pulizia.",
+    "urlApk":  "https://github.com/alyonhd-lgtm/fototeca-releases/releases/download/v0.8/Fototeca.apk",
+    "sha256":  "1447fc00f7f43778fb297b8cb4ca9d6d9690fc88b20635b7daceb31271a5394d",
+    "pesoByte":  11496958
 }
